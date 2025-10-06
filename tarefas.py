@@ -1,7 +1,3 @@
-# Projeto: Lista de Tarefas Simples
-# Autor: Estudante
-# Descrição: Permite adicionar, ver e remover tarefas de uma lista.
-
 tarefas = []
 
 def mostrar_menu():
